@@ -26,5 +26,7 @@ main.js - make everything together.
 The final result is same as the one first built, but tests are included.
 
 Demo: http://ademo.info/agl-code-test/v2
+
 UI test : http://ademo.info/agl-code-test/v2/ui-test.html
+
 Code test: http://ademo.info/agl-code-test/v2/code-test.html
