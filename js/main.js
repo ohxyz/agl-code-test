@@ -69,14 +69,19 @@
     var jsonUrl = 'people.json';
     var $container = $( '#cat-lists' );
     
-    var jqxhr = $.get( jsonUrl )
+    var jqxhr = $.ajax( {
+        
+            url: jsonUrl,
+            dataType: 'json'
+            
+        } )
         .done( function( data ) {
             
             if ( _.isArray( data ) === false 
                     || data.length === 0
                     || ( 'gender' in data[0] ) === false ) {
                 
-                console.error( "An array with gender is expected." );
+                console.error( "An array with gender is expected.", data );
                 return;
             }
             
