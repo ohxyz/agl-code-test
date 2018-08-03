@@ -4,7 +4,7 @@ Thank you for providing me with this test.
 
 I suppose that the JSON resouse is hosted under same domain. So I included the JSON file in this repo.
 
-Demo at: http://ademo.info/agl-code-test
+Demo: http://www.runademo.com/agl-code-test
 
 V2
 ===
@@ -25,8 +25,8 @@ main.js - make everything together.
 ---
 The final result is same as the one first built, but tests are included.
 
-Demo: http://ademo.info/agl-code-test/v2
+Demo: http://www.runademo.com/agl-code-test/v2
 
-UI test : http://ademo.info/agl-code-test/v2/ui-test.html
+UI test : http://www.runademo.com/agl-code-test/v2/ui-test.html
 
-Code test: http://ademo.info/agl-code-test/v2/code-test.html
+Code test: http://www.runademo.com/agl-code-test/v2/code-test.html
